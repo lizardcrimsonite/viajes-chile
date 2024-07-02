@@ -1,0 +1,23 @@
+body{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+}
+
+.navbar{
+    background-color: transparent;
+    text-align: center;
+    display: inline;
+
+}
+
+.h2{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center; 
+}
+
+.quienes-somos{
+    display: flex;
+}
