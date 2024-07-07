@@ -9,9 +9,19 @@ body {
 .navbar{
     background-color:transparent;
 }
-
-.h2{
+.container h2{
+    text-align: center;
     background-color: black;
+    color: white;
+    padding: 1%;
+    margin-top: 1%;
+}
+
+footer{
+    background-color: aqua;
+   
+    
+    
 }
 
 @media screen and (max-width:1200px){
@@ -22,7 +32,7 @@ body {
 }
 
 @media screen and (max-width:1200px){
-    .container{
+    .c{
         position: relative;
     }
     
